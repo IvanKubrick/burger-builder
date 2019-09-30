@@ -4,6 +4,8 @@ import Layout from './components/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 
 function App() {
+  console.log('test');
+
   return (
     <div>
       <Layout>
